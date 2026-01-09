@@ -129,3 +129,43 @@ nav .menu a {
     color: #627382;
     line-height: 20px;
 }
+#second-brain{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin: 120px;
+}
+#second-brain .brain-info .brain-h{
+    margin-bottom: 40px;
+    width: 700;
+}
+#second-brain .brain-info .brain-h h5{
+margin-top: 102px;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+color: #469165;
+margin-bottom: 16px;
+}
+#second-brain .brain-info .brain-h h3{
+    font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+color: #001931;
+margin-bottom: 16px;
+}
+#second-brain .brain-info .brain-h p{
+    color: #627382;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 20px;
+    text-align: left;
+    
+}
+#second-brain .brain-info .check p{
+margin-top: 16px;
+color: #001931;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+}
