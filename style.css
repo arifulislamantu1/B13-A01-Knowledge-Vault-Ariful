@@ -104,6 +104,7 @@ nav .menu a {
     display: flex;
     justify-content: center;
     gap: 24px;
+    padding: 0px 120px;
 }
 #about .card{
     padding: 24px;
@@ -191,4 +192,30 @@ line-height: 20px;
     margin-bottom: 16px;
 }#early-access button{
  margin-bottom: 16px;
+}
+footer{
+    background-color: #001931;
+
+}
+footer .footer-logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 120px 120px 80px;
+}
+footer .footer-logo .social-link {
+    justify-items: center;
+}
+footer .footer-logo .social-link h5{
+    color:#FBFBFB;
+    margin-bottom: 16px;
+}
+footer .copyright { 
+    padding: 0px 120px;
+}
+footer .copyright p{
+    
+    color: #FAFAFA;
+    text-align: center;
+    padding: 30px 120px;
 }
