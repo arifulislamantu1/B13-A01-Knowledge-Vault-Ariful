@@ -169,3 +169,26 @@ font-weight: 500;
 font-size: 16px;
 line-height: 20px;
 }
+#early-access{
+   text-align: center;
+   margin: 0px 120px 120px 120px;
+   background-color: #F7F6F2;
+   padding: 80px 40px;
+}
+
+#early-access h3{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    color: #001931;
+    margin-bottom: 16px;
+}
+#early-access p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #627382;
+    margin-bottom: 16px;
+}#early-access button{
+ margin-bottom: 16px;
+}
