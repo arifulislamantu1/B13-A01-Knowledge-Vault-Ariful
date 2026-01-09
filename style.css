@@ -120,7 +120,7 @@ nav .menu a {
 #about .card img{
     margin-top: 30px;
     width: 60px;
-    height: 60PX;
+    height: 60px;
     border-radius: 50px;
     padding: 16px;
     background-color: tomato;
@@ -128,7 +128,7 @@ nav .menu a {
 }
 #about .card h3{
     color: #001931;
-    margin-bottom: 16Px;
+    margin-bottom: 16px;
 }
 #about .card p{
     color: #627382;
@@ -142,7 +142,6 @@ nav .menu a {
 }
 #second-brain .brain-info .brain-h{
     margin-bottom: 40px;
-    width: 700;
 }
 #second-brain .brain-info .brain-h h5{
 margin-top: 102px;
@@ -164,8 +163,6 @@ margin-bottom: 16px;
     font-size: 16px;
     font-weight: 400px;
     line-height: 20px;
-    text-align: left;
-    
 }
 #second-brain .brain-info .check p{
 margin-top: 16px;
@@ -215,6 +212,12 @@ footer .footer-logo .social-link {
 footer .footer-logo .social-link h5{
     color:#FBFBFB;
     margin-bottom: 16px;
+}
+footer .footer-logo .social-link a{
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50px;
 }
 footer .copyright { 
     padding: 0px 120px;
