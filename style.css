@@ -74,8 +74,58 @@ nav .menu a {
     padding: 12px 16px;
     color: #FFFFFF;
 }
+#banner .btn2:hover{
+    background-color: grey;
+}
 #banner .button{
     display: flex;
     justify-content: center;
     gap: 15px;
+}
+
+#about{
+    text-align: center;
+}
+#about .about-heading{
+    padding: 44px;
+}
+#about .about-heading h2{
+    font-size: 48px;
+    font-weight: 700;
+    color: #001931;
+    margin-bottom: 16px;
+}
+#about .about-heading p{
+    
+    color: #627382;
+}
+
+#about .card-section{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+#about .card{
+    padding: 24px;
+    width: 300px;
+    height: 252px;
+    border-radius: 8px;
+    box-shadow: 0px 6px 50px 0px rgba(128, 128, 128, 0.454);
+}
+#about .card img{
+    margin-top: 30px;
+    width: 60px;
+    height: 60PX;
+    border-radius: 50px;
+    padding: 16px;
+    background-color: tomato;
+    margin-bottom:16px;
+}
+#about .card h3{
+    color: #001931;
+    margin-bottom: 16Px;
+}
+#about .card p{
+    color: #627382;
+    line-height: 20px;
 }
